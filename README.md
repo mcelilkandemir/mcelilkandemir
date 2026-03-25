@@ -1,127 +1,123 @@
 <h1 align="center">Mehmet Celil Kandemir</h1>
-<h3 align="center">Industrial Automation • PLC • HMI • SCADA • Modbus TCP/IP</h3>
 
 <p align="center">
-  Control and Automation Technologies student focused on real industrial systems,
-  operator interfaces, and practical automation engineering.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Industrial+Automation+Student;PLC+%7C+HMI+%7C+SCADA+%7C+Modbus+TCP%2FIP;Building+clear+logic+for+real+industrial+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:mckandemir20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mckandemir20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mehmetcelilkandemir">
-    <img src="https://img.shields.io/badge/LinkedIn-Mehmet%20Celil%20Kandemir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/celil.kandemirr">
     <img src="https://img.shields.io/badge/Instagram-celil.kandemirr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
-## About Me
-
-I am **Mehmet Celil Kandemir**, a **Control and Automation Technologies** student with a strong interest in **industrial automation**, **PLC-HMI systems**, **SCADA monitoring**, and **industrial communication**.
-
-I focus on building systems that are not only technically correct, but also **clear, usable, and production-ready**. My main goal is to combine **control logic**, **operator interface design**, and **real field experience** into practical engineering solutions.
-
-I enjoy working on:
-
-- PLC and HMI integration  
-- SCADA monitoring and screen design  
-- Modbus TCP/IP based communication  
-- Industrial data visualization  
-- Alarm and operator interface logic  
-- Field testing, troubleshooting, and commissioning  
-
----
-
-## What I Do
-
-### Industrial Automation
-I work on automation structures that connect machine logic, operator panels, data flow, and process monitoring into one functional system.
-
-### PLC / HMI Systems
-I build and improve operator-oriented systems where logic flow, control buttons, alarms, and visual feedback need to work together clearly.
-
-### SCADA & Monitoring
-I design monitoring pages that make industrial systems easier to follow, control, and analyze.
-
-### Industrial Communication
-I work with communication-based structures such as **Modbus TCP/IP** to transfer, read, and display industrial data between devices.
-
----
-
-## Engineering Approach
-
-I believe good automation is not just about making a system run.
-
-It should also be:
-
-- readable  
-- stable  
-- maintainable  
-- operator-friendly  
-- suitable for real production environments  
-
-My approach is based on creating systems that solve real problems with clean logic and understandable interfaces.
-
----
-
-## Current Focus
-
-- PLC-HMI communication  
-- SCADA screen development  
-- Industrial monitoring interfaces  
-- Modbus TCP/IP data reading  
-- Practical automation development  
-- Simulation and real-world system understanding  
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/PLC-Control%20Logic-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/HMI-Operator%20Interfaces-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/SCADA-Monitoring%20Systems-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Modbus-TCP%2FIP-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Industrial%20Networking-Ethernet-f97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Factory%20I%2FO-Simulation-22c55e?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Industrial%20Automation-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/PLC-HMI-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/SCADA-Monitoring-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Protocol-Modbus%20TCP%2FIP-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Denizli%2C%20T%C3%BCrkiye-2f855a?style=flat-square" />
 </p>
 
 ---
 
-## Goals
+##  About Me
 
-- Improve my expertise in industrial automation systems  
-- Build stronger real-world engineering projects  
-- Combine software and automation more effectively  
-- Develop systems that go beyond theory and deliver real value  
-- Grow into a highly capable automation and control engineer  
+I am **Mehmet Celil Kandemir**, a **Control and Automation Technologies** student focused on **industrial automation**, **PLC-HMI communication**, **SCADA monitoring**, and **field-based system development**.
+
+I am interested in building systems that are not only functional, but also **clear**, **stable**, and **operator-friendly**. My goal is to combine **industrial logic**, **monitoring interfaces**, and **real-world process understanding** into practical engineering solutions.
 
 ---
 
-## GitHub Stats
+##  What I Work On
+
+- **PLC & HMI integration**
+- **SCADA screen design**
+- **Modbus TCP/IP communication**
+- **Industrial data visualization**
+- **Operator interface logic**
+- **Alarm and monitoring systems**
+- **Field testing and troubleshooting**
+
+---
+
+##  Engineering Perspective
+
+I care about systems that:
+
+- work reliably  
+- look clear to the operator  
+- are easy to test  
+- are suitable for real production environments  
+
+For me, automation is not just code running in a controller.  
+It is the full structure of **logic, communication, visualization, and usability**.
+
+---
+
+##  Current Direction
+
+I am currently improving myself in:
+
+- industrial automation architecture  
+- PLC-HMI communication structures  
+- SCADA page organization  
+- process visualization  
+- industrial networking  
+- real-world troubleshooting  
+
+---
+
+##  Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Delta_PLC-Control_Logic-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weintek_HMI-Operator_Interface-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCADA-Monitoring_Systems-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modbus-TCP%2FIP-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Factory_I%2FO-Simulation-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industrial_Networking-Ethernet-f97316?style=for-the-badge" />
+</p>
+
+---
+
+##  Goals
+
+- become stronger in industrial automation systems  
+- build more real-world engineering projects  
+- improve software + automation integration  
+- develop production-oriented system thinking  
+- grow into a high-level automation engineer  
+
+---
+
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcelilkandemir&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcelilkandemir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcelilkandemir&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcelilkandemir&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 ---
 
-## Contact
+##  Contact
 
-- **Name:** Mehmet Celil Kandemir  
-- **Location:** Denizli, Türkiye  
 - **Gmail:** mckandemir20@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/mehmetcelilkandemir  
-- **Instagram:** https://www.instagram.com/celil.kandemirr  
+- **LinkedIn:** [linkedin.com/in/mehmetcelilkandemir](https://www.linkedin.com/in/mehmetcelilkandemir)  
+- **Instagram:** [@celil.kandemirr](https://www.instagram.com/celil.kandemirr)  
+- **Location:** Denizli, Türkiye  
 
 ---
 
 <p align="center">
-  <b>Industrial systems • Clear logic • Real-world automation</b>
+  <b>Industrial Systems • Clear Logic • Real Engineering</b>
 </p>
