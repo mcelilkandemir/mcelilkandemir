@@ -1,108 +1,109 @@
 <h1 align="center">Mehmet Celil Kandemir</h1>
-<h3 align="center">Industrial Automation • PLC • HMI • SCADA • Modbus TCP</h3>
+<h3 align="center">Industrial Automation • PLC • HMI • SCADA • Modbus TCP/IP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Control+%26+Automation+Technologies+Student;Industrial+Automation+Intern;PLC+-+HMI+-+SCADA+Focused;Building+Real+World+Industrial+Systems" alt="Typing SVG" />
+  Control and Automation Technologies student focused on real industrial systems,
+  operator interfaces, and practical automation engineering.
 </p>
 
 <p align="center">
-  <a href="mailto:mail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Denizli%2C%20Turkey-black?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="mailto:mckandemir20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mckandemir20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehmetcelilkandemir">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehmet%20Celil%20Kandemir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/celil.kandemirr">
+    <img src="https://img.shields.io/badge/Instagram-celil.kandemirr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am **Mehmet Celil Kandemir**, a **Control and Automation Technologies** student focused on industrial automation systems, operator interfaces, and field-oriented engineering solutions.
+I am **Mehmet Celil Kandemir**, a **Control and Automation Technologies** student with a strong interest in **industrial automation**, **PLC-HMI systems**, **SCADA monitoring**, and **industrial communication**.
 
-My main interest is building practical systems that connect **PLC logic**, **HMI screens**, **SCADA monitoring**, and **industrial communication** into one clean and usable structure.
+I focus on building systems that are not only technically correct, but also **clear, usable, and production-ready**. My main goal is to combine **control logic**, **operator interface design**, and **real field experience** into practical engineering solutions.
 
-I am especially interested in:
+I enjoy working on:
 
 - PLC and HMI integration  
-- SCADA screen design and monitoring systems  
-- Modbus TCP/IP communication  
+- SCADA monitoring and screen design  
+- Modbus TCP/IP based communication  
 - Industrial data visualization  
-- Field testing, commissioning, and troubleshooting  
-- Building real systems instead of only studying theory  
-
-I like systems that are **clear, functional, and directly usable in production environments**.
+- Alarm and operator interface logic  
+- Field testing, troubleshooting, and commissioning  
 
 ---
 
-## 🧠 What I Focus On
+## What I Do
 
-### 🔹 Industrial Automation
-Designing and understanding automation flows for machines, tanks, process lines, and operator-controlled systems.
+### Industrial Automation
+I work on automation structures that connect machine logic, operator panels, data flow, and process monitoring into one functional system.
 
-### 🔹 PLC / HMI Systems
-Working on logic flow, process visualization, button structures, alarm states, and operator-friendly screens.
+### PLC / HMI Systems
+I build and improve operator-oriented systems where logic flow, control buttons, alarms, and visual feedback need to work together clearly.
 
-### 🔹 SCADA & Monitoring
-Creating large monitoring pages that combine multiple industrial areas into one understandable interface.
+### SCADA & Monitoring
+I design monitoring pages that make industrial systems easier to follow, control, and analyze.
 
-### 🔹 Industrial Communication
-Reading and transferring data between devices using protocols such as **Modbus TCP/IP**.
-
-### 🔹 Real Field Experience
-Learning how industrial systems behave outside theory — on panels, on-site, in testing, and during commissioning.
+### Industrial Communication
+I work with communication-based structures such as **Modbus TCP/IP** to transfer, read, and display industrial data between devices.
 
 ---
 
-## 🛠️ Tech Stack
+## Engineering Approach
 
-<p>
-  <img src="https://img.shields.io/badge/PLC-Industrial%20Logic-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/HMI-Operator%20Interface-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/SCADA-Monitoring%20Systems-6A1B9A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Modbus-TCP%2FIP-1E88E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Factory%20I%2FO-Simulation-43A047?style=flat-square" />
-  <img src="https://img.shields.io/badge/Industrial%20Networking-Ethernet-F4511E?style=flat-square" />
-</p>
+I believe good automation is not just about making a system run.
 
-- PLC logic development  
-- HMI screen design  
-- SCADA monitoring pages  
-- Modbus TCP/IP communication  
-- Industrial troubleshooting  
-- Operator-oriented system design  
-- Field setup and testing  
-
----
-
-## 🎯 Current Direction
-
-Right now, I am improving myself in these areas:
-
-- Building stronger PLC-HMI communication structures  
-- Designing cleaner and more professional SCADA screens  
-- Understanding industrial process logic more deeply  
-- Learning simulation-based automation development  
-- Moving from technician-level execution toward engineering-level system thinking  
-
----
-
-## ⚙️ Engineering Mindset
-
-I do not just want systems that “work”.
-
-I want systems that are:
+It should also be:
 
 - readable  
 - stable  
-- testable  
 - maintainable  
 - operator-friendly  
-- ready for real production environments  
+- suitable for real production environments  
 
-For me, automation is not only about writing logic.  
-It is about building a system that people can actually use efficiently.
+My approach is based on creating systems that solve real problems with clean logic and understandable interfaces.
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+- PLC-HMI communication  
+- SCADA screen development  
+- Industrial monitoring interfaces  
+- Modbus TCP/IP data reading  
+- Practical automation development  
+- Simulation and real-world system understanding  
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PLC-Control%20Logic-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/HMI-Operator%20Interfaces-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/SCADA-Monitoring%20Systems-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modbus-TCP%2FIP-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Industrial%20Networking-Ethernet-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Factory%20I%2FO-Simulation-22c55e?style=flat-square" />
+</p>
+
+---
+
+## Goals
+
+- Improve my expertise in industrial automation systems  
+- Build stronger real-world engineering projects  
+- Combine software and automation more effectively  
+- Develop systems that go beyond theory and deliver real value  
+- Grow into a highly capable automation and control engineer  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mcelilkandemir&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -111,25 +112,16 @@ It is about building a system that people can actually use efficiently.
 
 ---
 
-## 🏆 Goals
-
-- Become highly capable in industrial automation systems  
-- Build stronger real-world engineering projects  
-- Improve software + automation integration skills  
-- Create systems that can scale beyond local projects  
-- Turn technical ability into long-term value and bigger ventures  
-
----
-
-## 📫 Contact
+## Contact
 
 - **Name:** Mehmet Celil Kandemir  
-- **Location:** Denizli, Turkey  
-- **Email:** mail@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-link  
+- **Location:** Denizli, Türkiye  
+- **Gmail:** mckandemir20@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/mehmetcelilkandemir  
+- **Instagram:** https://www.instagram.com/celil.kandemirr  
 
 ---
 
 <p align="center">
-  <b>Industrial systems. Clear logic. Real results.</b>
+  <b>Industrial systems • Clear logic • Real-world automation</b>
 </p>
